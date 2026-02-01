@@ -1,0 +1,5 @@
+{
+  "run": "python bot.py",
+  "language": "python3",
+  "onBoot": "pip install -r requirements.txt"
+}

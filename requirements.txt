@@ -1,0 +1,14 @@
+# Discord library for Python
+discord.py==2.3.2
+
+# Web automation with Selenium
+selenium==4.16.0
+
+# Web driver manager (automatically downloads chromedriver)
+webdriver-manager==4.0.1
+
+# Flask for keeping Replit alive
+Flask==3.0.0
+
+# Additional dependencies
+python-dotenv==1.0.0
